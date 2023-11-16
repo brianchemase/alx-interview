@@ -34,4 +34,3 @@ def rotate_2d_matrix(matrix):
             matrix.pop(r)
 
         r -= 1
-        
