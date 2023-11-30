@@ -60,3 +60,4 @@ def island_perimeter(grid):
                         counter += 1
 
     return counter
+
